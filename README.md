@@ -12,6 +12,7 @@ items : {
     cat_id: Number,
     required: true
   },
+  tags: [String]
 }
 
 category = [ 'Computer', 'Stationary', 'Appliance', 'Furniture' ];
